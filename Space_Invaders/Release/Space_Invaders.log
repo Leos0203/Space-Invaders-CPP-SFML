@@ -1,0 +1,9 @@
+﻿  EnemyManager.cpp
+  Game.cpp
+  Ship.cpp
+  Generating code
+  5 of 500 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Space_Invaders.vcxproj -> E:\Visual Studio\repos\Space_Invaders\Release\Space_Invaders.exe

@@ -1,0 +1,3 @@
+﻿  Ship.cpp
+E:\Visual Studio\repos\Space_Invaders\Space_Invaders\Global.h(45): warning C4715: 'TextureManager::getTexture': not all control paths return a value
+  Space_Invaders.vcxproj -> E:\Visual Studio\repos\Space_Invaders\Debug\Space_Invaders.exe
